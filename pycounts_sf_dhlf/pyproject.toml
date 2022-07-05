@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pycount_sf_dhlf"
+name = "pycounts_sf_dhlf"
 version = "0.1.0"
 description = "Count words in text"
 authors = ["Shuka Fishman"]

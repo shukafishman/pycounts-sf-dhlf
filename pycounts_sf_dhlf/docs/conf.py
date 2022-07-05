@@ -6,7 +6,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u"pycount_sf_dhlf"
+project = u"pycounts_sf_dhlf"
 copyright = u"2022, Shuka Fishman"
 author = u"Shuka Fishman"
 

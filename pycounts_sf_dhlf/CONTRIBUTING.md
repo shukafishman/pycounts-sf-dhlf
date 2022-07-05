@@ -40,10 +40,10 @@ If you are proposing a feature:
 
 ## Get Started!
 
-Ready to contribute? Here's how to set up `pycount_sf_dhlf` for local development.
+Ready to contribute? Here's how to set up `pycounts_sf_dhlf` for local development.
 
-1. Download a copy of `pycount_sf_dhlf` locally.
-2. Install `pycount_sf_dhlf` using `poetry`:
+1. Download a copy of `pycounts_sf_dhlf` locally.
+2. Install `pycounts_sf_dhlf` using `poetry`:
 
     ```console
     $ poetry install
@@ -69,5 +69,5 @@ Before you submit a pull request, check that it meets these guidelines:
 
 ## Code of Conduct
 
-Please note that the `pycount_sf_dhlf` project is released with a
+Please note that the `pycounts_sf_dhlf` project is released with a
 Code of Conduct. By contributing to this project you agree to abide by its terms.
